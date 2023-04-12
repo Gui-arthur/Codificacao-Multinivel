@@ -1,6 +1,6 @@
 # Codificação Multinível
 
-Nesse projeto foram implementados alguns métodos de codificar um dado em um sinal. Dentre esses meios está incluído o 2B1Q, 8B6T, 4DPAM5 e o MLT3.
+Nesse projeto foram implementados alguns métodos de codificar um dado em um sinal. Dentre esses meios estão incluídos o 2B1Q, 8B6T, 4DPAM5 e o MLT3.
 
 ---
 
